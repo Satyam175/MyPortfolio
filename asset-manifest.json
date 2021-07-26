@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/MyPortFolio/static/css/main.8d0528dd.chunk.css",
+    "main.js": "/MyPortFolio/static/js/main.dd06dae7.chunk.js",
+    "main.js.map": "/MyPortFolio/static/js/main.dd06dae7.chunk.js.map",
+    "runtime-main.js": "/MyPortFolio/static/js/runtime-main.c5a9b057.js",
+    "runtime-main.js.map": "/MyPortFolio/static/js/runtime-main.c5a9b057.js.map",
+    "static/js/2.caf48b19.chunk.js": "/MyPortFolio/static/js/2.caf48b19.chunk.js",
+    "static/js/2.caf48b19.chunk.js.map": "/MyPortFolio/static/js/2.caf48b19.chunk.js.map",
+    "static/css/3.25727338.chunk.css": "/MyPortFolio/static/css/3.25727338.chunk.css",
+    "static/js/3.79798a3a.chunk.js": "/MyPortFolio/static/js/3.79798a3a.chunk.js",
+    "static/js/3.79798a3a.chunk.js.map": "/MyPortFolio/static/js/3.79798a3a.chunk.js.map",
+    "static/css/4.a8329f31.chunk.css": "/MyPortFolio/static/css/4.a8329f31.chunk.css",
+    "static/js/4.2cc59d38.chunk.js": "/MyPortFolio/static/js/4.2cc59d38.chunk.js",
+    "static/js/4.2cc59d38.chunk.js.map": "/MyPortFolio/static/js/4.2cc59d38.chunk.js.map",
+    "index.html": "/MyPortFolio/index.html",
+    "precache-manifest.58451223aaa0b10e1c687694e3b34ed5.js": "/MyPortFolio/precache-manifest.58451223aaa0b10e1c687694e3b34ed5.js",
+    "service-worker.js": "/MyPortFolio/service-worker.js",
+    "static/css/3.25727338.chunk.css.map": "/MyPortFolio/static/css/3.25727338.chunk.css.map",
+    "static/css/4.a8329f31.chunk.css.map": "/MyPortFolio/static/css/4.a8329f31.chunk.css.map",
+    "static/css/main.8d0528dd.chunk.css.map": "/MyPortFolio/static/css/main.8d0528dd.chunk.css.map",
+    "static/js/2.caf48b19.chunk.js.LICENSE.txt": "/MyPortFolio/static/js/2.caf48b19.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/MyPortFolio/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/baba.jpg": "/MyPortFolio/static/media/baba.17e0329e.jpg",
+    "static/media/contactMailDark.svg": "/MyPortFolio/static/media/contactMailDark.51cf7192.svg",
+    "static/media/developerActivity.svg": "/MyPortFolio/static/media/developerActivity.59389695.svg",
+    "static/media/jecLogo.png": "/MyPortFolio/static/media/jecLogo.d4cd31ab.png",
+    "static/media/manOnTable.svg": "/MyPortFolio/static/media/manOnTable.52be3144.svg",
+    "static/media/nextuLogo.webp": "/MyPortFolio/static/media/nextuLogo.829ad0a1.webp",
+    "static/media/saayaHealthLogo.webp": "/MyPortFolio/static/media/saayaHealthLogo.25018d29.webp",
+    "static/media/skill.svg": "/MyPortFolio/static/media/skill.34409398.svg",
+    "static/media/TalkCard.scss": "/MyPortFolio/static/media/talksCardBack.13780cdd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c5a9b057.js",
+    "static/js/2.caf48b19.chunk.js",
+    "static/css/main.8d0528dd.chunk.css",
+    "static/js/main.dd06dae7.chunk.js"
+  ]
+}
